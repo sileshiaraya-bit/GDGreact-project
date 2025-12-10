@@ -1,10 +1,9 @@
-function Header(){
-  return(
-    <div>
-      <h1>my first app</h1>
-    </div>
-     
-    
+function Header() {
+  return (
+    <header>
+      <h1>My first app</h1>
+    </header>
   );
 }
-export default Header
+
+export default Header;
